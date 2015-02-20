@@ -1,11 +1,11 @@
 [user]
-        name = Shah Nayeem El-Rahman
-        email = itsnayeem@gmail.com
+        name = Alexandra Tansing
+        email = alexandra.tansing@gmail.com
 [color]
         diff = auto
         status = auto
         branch = auto
         ui = auto
 [core]
-        excludesfile = /Users/itsnayeem/.gitignore_global
+        excludesfile = /Users/alex/.gitignore_global
         editor = vim
